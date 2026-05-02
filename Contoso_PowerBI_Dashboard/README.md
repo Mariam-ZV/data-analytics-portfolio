@@ -7,28 +7,40 @@ The goal is to transform structured data into clear, decision-ready insights thr
 
 ---
 
+## Project Structure
+
+### 🧩 Part0 — Model Setup
+Covers the technical foundation of the dashboard:
+- Importing the Excel data model into Power BI
+- Data model structure (multi-fact schema with shared dimensions)
+- Relationships and table organisation
+- Measure table creation and organisation
+- Data formatting, hierarchies, and best practices
+
+---
+
 ## Dashboard Pages
 
-### 📌 Executive Summary
+### 📌 Part1 — Executive Summary
 High-level overview of business performance:
 - Sales, Profit, Orders, Customers
 - Monthly trends
 - Category performance
 - Top products
 
-### 📦 Product Analysis
+### 📦 Part2 — Product Analysis
 Deep dive into product performance:
 - Top & bottom products
 - Sales vs Profit relationship
 - Profitability analysis
 
-### 👥 Customer Analysis
+### 👥 Part3 — Customer Analysis
 Customer behaviour and value:
 - Customer growth over time
 - Sales per customer trends
 - Top customers
 
-### 🌍 Geography Analysis
+### 🌍 Part4 — Geography Analysis
 Regional performance:
 - Sales by country (map)
 - Continent-level filtering
