@@ -1,6 +1,8 @@
 # 📊 Data Analytics Portfolio — Mariam Zamanvaziri
 
-A collection of end-to-end data analysis projects focused on transforming raw data into clean, structured models and clear business insights.
+A portfolio of real-world data analysis projects using Excel, SQL, and Power BI.
+
+Focused on turning messy data into clean models and clear, decision-ready insights.
 
 ---
 
