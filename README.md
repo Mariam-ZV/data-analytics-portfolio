@@ -1,4 +1,4 @@
-# 📊 Data Analytics Portfolio — Mariam Z
+# 📊 Data Analytics Portfolio — Mariam Zamanvaziri
 
 A collection of end-to-end data analysis projects focused on transforming raw data into clean, structured models and clear business insights.
 
@@ -24,7 +24,7 @@ End-to-end retail analytics project covering:
 - Excel  
 - Power Query  
 - Power Pivot  
-- SQL (PostgreSQL)  
+- SQL 
 - DAX  
 - Power BI  
 
