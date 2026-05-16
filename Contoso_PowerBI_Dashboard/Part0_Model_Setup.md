@@ -4,7 +4,7 @@
 I imported the Phase 3 Excel model directly into Power BI to preserve all existing work (tables, relationships, and measures).
 
 **Path:**  
-Blank Report → Import → Power Query, Power Pivot, Power View → Select Phase 3 Excel file → Open
+File tab → Import → Power Query, Power Pivot, Power View → Select Phase 3 Excel file → Open
 
 This method brings in:
 - All tables (already cleaned)
